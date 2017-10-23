@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  background:#566573;
+  line-height: 30px;
+}
+
+.col {
+  color: white;
+  display: block;
+  text-decoration: none;
+}
+
+li {
+ width: 100px;
+ display: inline-block;  
+ text-align: center;
+}
+.col:hover{
+  background:#F39C12;
+
+}
